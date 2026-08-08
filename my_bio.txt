@@ -6,3 +6,4 @@ Name: Guhan
 Name: Lova, 
  Age: 39, 
  Occupation: IT
+ Height: 6.3ft
