@@ -1,7 +1,9 @@
 Name: Guhan
  Age: 12yrs 
  Grade: 7thHelloHowYou
+ Height: 5.1ft
 
 Name: Lova, 
  Age: 39, 
  Occupation: IT
+ Height: 6.3ft
