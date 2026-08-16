@@ -2,7 +2,7 @@ import streamlit as st
 
 # 1. Define pages
 home_page = st.Page("pages/home.py", title="Home", icon="🏠")
-list_page = st.Page("pages/list.py", title="Medicines", icon="💊")
+list_page = st.Page("pages/medicines.py", title="Medicines", icon="💊")
 add_med = st.Page("pages/add.py", title="Add", icon="➕")
 profile_page = st.Page("pages/profile.py", title="Profile", icon="⚙️")
 
